@@ -47,13 +47,13 @@
 
 ## My Stack
 
-**Daily Drivers:** Fedora KDE, rpm-ostree, AppImageLauncher
-**Hardware:** Orange Pi 5 Plus, Creality K1C, various SBCs
-**Virtualization:** VMware ESXi, VMware Workstation
-**Networking:** pfSense, NUT, gigabit home lab
-**Automation:** Home Assistant, Hubitat Elevation
-**Security:** Bitwarden, Aegis Authenticator, Suricata, Graylog
-**Printing:** PrusaSlicer, OrcaSlicer, BambuStudio
+- **Daily Drivers:** Fedora KDE, rpm-ostree, AppImageLauncher
+- **Hardware:** Orange Pi 5 Plus, Creality K1C, various SBCs
+- **Virtualization:** VMware ESXi, VMware Workstation
+- **Networking:** pfSense, NUT, gigabit home lab
+- **Automation:** Home Assistant, Hubitat Elevation
+- **Security:** Bitwarden, Aegis Authenticator, Suricata, Graylog
+- **Printing:** PrusaSlicer, OrcaSlicer, BambuStudio
 
 ## Selected Projects
 
