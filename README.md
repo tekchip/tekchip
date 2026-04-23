@@ -49,7 +49,7 @@
 
 - **Daily Drivers:** Fedora KDE Kinoite, Samsung Android
 - **Hardware:** Framework 13 AMD, Bosgame M4 Neo, Custom Gaming PC (Intel 13th Gen)
-- **Virtualization:** Proxmox, Linux QEMU
+- **Virtualization:** Proxmox, Linux KVM, Libvirt, QEMU
 - **Networking:** pfSense, NUT, Moca Adapters, OpenWRT
 - **Automation:** Home Assistant, Hubitat Elevation
 - **Security:** Bitwarden, Aegis Authenticator, Suricata, Graylog, Pwnagotchi
