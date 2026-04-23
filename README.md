@@ -79,4 +79,4 @@ Repo: https://github.com/tekchip/technical-writings
 - **Purdue University Global:** Associate of Applied Science in Information Technology
 - **US Army Chaplain School:** Logistics and Professional Communication
 - **ISC2:** [Certified In Cybersecurity](https://www.credly.com/badges/d200ccd3-15ee-4af9-9ba8-597e439cd3d2/public_url) 
-- **CompTIA:** [Security+ CE](https://www.credly.com/badges/7f040495-369d-41c8-a86a-4a0e849ac632/public_url) [A+](https://www.credly.com/badges/a836a59b-3a23-4093-a0d0-98ffa9d36f8e/public_url)
+- **CompTIA:** [Security+ CE](https://www.credly.com/badges/7f040495-369d-41c8-a86a-4a0e849ac632/public_url) & [A+](https://www.credly.com/badges/a836a59b-3a23-4093-a0d0-98ffa9d36f8e/public_url)
