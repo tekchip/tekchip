@@ -2,6 +2,12 @@
 
 **Linux Engineer | Cybersecurity Advocate | Home Automation Builder | 3D Printing Enthusiast | Registered Drone Pilot**
 
+## Around the Web
+
+- Blog: https://blog.brockh.at
+- Mastodon: https://mastodon.social/@Tekchip
+- Bluesky: https://bsky.app/profile/brockh.at
+
 ## What I Work On
 
 **Linux Systems & Packaging**
@@ -61,9 +67,3 @@ Repo: https://github.com/tekchip/BrickLayers
 ### Technical Writings
 A curated archive of 15+ years of technical articles on Linux, security, hardware, and virtualization.
 Repo: https://github.com/tekchip/technical-writings
-
-## Around the Web
-
-- Blog: https://blog.brockh.at
-- Mastodon: https://mastodon.social/@Tekchip
-- Bluesky: https://bsky.app/profile/brockh.at
