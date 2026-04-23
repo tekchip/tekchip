@@ -47,13 +47,14 @@
 
 ## My Stack
 
-- **Daily Drivers:** Fedora KDE, rpm-ostree, AppImageLauncher
-- **Hardware:** Orange Pi 5 Plus, Creality K1C, various SBCs
-- **Virtualization:** VMware ESXi, VMware Workstation
-- **Networking:** pfSense, NUT, gigabit home lab
+- **Daily Drivers:** Fedora KDE Kinoite, Samsung Android
+- **Hardware:** Framework 13 AMD, Bosgame M4 Neo, Custom Gaming PC (Intel 13th Gen)
+- **Virtualization:** Proxmox, Linux QEMU
+- **Networking:** pfSense, NUT, Moca Adapters, OpenWRT
 - **Automation:** Home Assistant, Hubitat Elevation
-- **Security:** Bitwarden, Aegis Authenticator, Suricata, Graylog
-- **Printing:** PrusaSlicer, OrcaSlicer, BambuStudio
+- **Security:** Bitwarden, Aegis Authenticator, Suricata, Graylog, Pwnagotchi
+- **Printing:** Creality K1C, Bambu Lab A1, PrusaSlicer, OrcaSlicer, BambuStudio
+- **Drones:** DJI Air2S, DJI Mini 2se
 
 ## Selected Projects
 
