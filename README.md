@@ -4,9 +4,9 @@
 
 ## Around the Web
 
-- Blog: https://blog.brockh.at
+[![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white)](https://blog.brockh.at)
 [![Mastodon](https://img.shields.io/badge/-Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@Tekchip)
-- Bluesky: https://bsky.app/profile/brockh.at
+[![Bluesky](https://img.shields.io/badge/-Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/brockh.at)
 
 ## What I Work On
 
