@@ -5,7 +5,7 @@
 ## Around the Web
 
 - Blog: https://blog.brockh.at
-- Mastodon: https://mastodon.social/@Tekchip
+[![Mastodon](https://img.shields.io/badge/-Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@Tekchip)
 - Bluesky: https://bsky.app/profile/brockh.at
 
 ## What I Work On
