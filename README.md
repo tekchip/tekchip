@@ -11,28 +11,34 @@
 ## What I Work On
 
 **Linux Systems & Packaging**
-- Daily driver: Fedora KDE with rpm-ostree and immutable distributions
+- Client OS: Fedora KDE Kinoite, rpm-ostree based immutable distribution.
+- Server OS: Ubuntu Server 24.04 & 26.04, Fedora Server 43
 - Building RPM packages and maintaining CUPS drivers for unsupported hardware
 - Exploring atomic distributions, systemd timers, and automatic update strategies
 
 **Cybersecurity & Identity**
 - Self-hosted 2FA with Aegis, cloud-synced and encrypted
 - Bitwarden deployment and password management advocacy
-- Network security on pfSense with NUT for UPS monitoring
-- Historical analysis of breaches (Epsilon, PSN) and public password response
+- Network security on pfSense, Suricata, Graylog
+- Pwnagotchi wifi analysis/war driving
+
+**AI & LLM**
+- Claude Code
+- Ollama: Local & Cloud
+- n8n
 
 **Home Automation & IoT**
 - Home Assistant integrations: Pecron portable power stations, Hubitat bidirectional bridge
-- SBC home labs: Orange Pi 5 Plus, ARM-based virtualization, VMware ESXi
+- SBC home labs: Orange Pi 5 Plus, Raspberry Pi 1-5 & Zero, Pi Sugar
 
 **3D Printing & Fabrication**
-- Creality K1C owner with maintained backup configs
+- Creality K1C, Bambu Lab A1
 - Post-processing scripts for PrusaSlicer, OrcaSlicer, and BambuStudio: BrickLayers
 - Printing for practical problem solving (hardware mods, cable management, lab racks)
 
 **Embedded & Mobile**
 - Android rooting, ROM flashing, and platform hacking (Nook Color era to present)
-- Chromebook and ARM device evaluation (Samsung Chromebook, HP Chromebook 14, LG G Pad)
+- Chromebook and ARM device evaluation (Pinebook Pro, Samsung Chromebook, HP Chromebook 14, LG G Pad)
 
 **Off-Grid & Mesh Networking**
 - Meshtastic operator for decentralized communication
@@ -46,7 +52,7 @@
 **Virtualization:** VMware ESXi, VMware Workstation
 **Networking:** pfSense, NUT, gigabit home lab
 **Automation:** Home Assistant, Hubitat Elevation
-**Security:** Bitwarden, Aegis Authenticator
+**Security:** Bitwarden, Aegis Authenticator, Suricata, Graylog
 **Printing:** PrusaSlicer, OrcaSlicer, BambuStudio
 
 ## Selected Projects
