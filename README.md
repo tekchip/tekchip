@@ -1,4 +1,4 @@
-# Hey, I'm tekchip
+# Hey, I'm Tekchip
 
 **Linux Engineer | Cybersecurity Advocate | Home Automation Builder | 3D Printing Enthusiast | Registered Drone Pilot**
 
